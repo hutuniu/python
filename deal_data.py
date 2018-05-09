@@ -6,12 +6,8 @@ Created on Fri Jan 26 14:26:05 2018
 version: 01
 """
 
-'''
-把所有数据放到一个文件中
-version: 02
-'''
 import os
-
+#k值不同的文件夹
 d='D:/DMFTdata/two_nnn/find_parameters/20180508/k=1.0/'
 for k in range(1,11):
     m=k/10
